@@ -1,0 +1,8 @@
+Es importante para un desarrollador, saber usar la terminal de comandos para navegar porque esta le permite trabajar de manera mas rápida y organizar mejor sus proyectos.
+Una muestra de que esta herramienta ayuda a ser mas rápido a la hora de trabajar, es que, usando comandos se puede mover entre carpetas, crear y copiar archivos mas rápidos que al usar una interfaz grafica.
+Hay muchos entornos, medios de trabajo como servidores, desarrollos de paginas web, entre otros, en los que la principal forma de interactuar con los sistemas, es usando la terminal de comandos.
+La ventaja de usar la terminal de comandos, es que sin necedad de tener una interfaz visual; la terminal permite crear carpetas, mover archivos, crear archivos, eliminar archivos y así tener tus proyectos de una manera mas organizada.
+Un ejemplo claro, es la terminal de comandos Git, la cual es una herramienta de desarrollo muy importante que permite realizar todas estas acciones mencionadas antes, y que al igual que muchas otras herramientas existentes en el mundo del desarrollo digital, funcionan con comandos. 
+La terminal te permite hacer muchas tareas repetitivas, técnicas o complejas de forma rápida y precisa, algo que en interfaz gráfica sería más lento o difícil.
+Creo que, la terminal de comandos es la herramienta principal de un desarrollador, ya que al saber usarla se puede optimizar el trabajo, porque de manera literal le dices mediante comandos lo que quieres que esta realice; cabe recalcar que hay que saber usar la herramienta muy bien y saber que es lo que se quiere conseguir mediante una secuencia de pasos.
+

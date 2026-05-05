@@ -1,0 +1,11 @@
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+ls
+nano comandos-terminal.txt
+cat comandos-terminal.txt
+nano preguntas-semana2.txt
+cat preguntas-semana2.txt
+
