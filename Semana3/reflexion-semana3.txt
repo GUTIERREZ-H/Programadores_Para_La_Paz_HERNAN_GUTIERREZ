@@ -1,0 +1,17 @@
+¿Por qué es importante usar Git en el desarrollo de software?
+El desarrollo de software es un proceso largo y complejo donde el código cambia constantemente. Herramientas como Git son fundamentales porque funcionan como un sistema de control de
+versiones, lo que significa que llevan un registro ordenado de cada modificación que se hace en un proyecto; mantener este registro es importante por cuatro razones principales:
+
+Es una red de seguridad (Máquina del tiempo): Cuando los programadores escriben código nuevo, es muy común que cometan errores y el programa deje de funcionar. Con Git, no hace
+falta borrar todo o intentar recordar qué se cambió; simplemente se puede regresar el proyecto a una versión anterior que sí funcionaba bien.
+
+Permite el trabajo en equipo: En los proyectos escolares o profesionales, varias personas trabajan en el mismo archivo a la vez. Sin Git, alguien podría borrar sin querer el trabajo de su
+compañero. Git permite que cada quien trabaje en su propia computadora y luego une los cambios de todos de forma inteligente.
+
+Organización e Historial: Git guarda un registro que dice exactamente quién hizo un cambio, cuándo lo hizo y por qué lo hizo. Esto ayuda a mantener el proyecto ordenado y a encontrar
+rápidamente el origen de un problema si algo sale mal.
+
+Copia de seguridad: Al estar conectado con plataformas en la nube (como GitHub), el proyecto siempre tiene un respaldo seguro en internet. Si la computadora de un estudiante se
+daña o se pierde, el trabajo no se pierde porque está guardado en el historial de Git.
+
+En conclusión, usar Git es importante porque evita la pérdida de información, facilita la colaboración entre compañeros y permite experimentar con el código de forma segura y ordenada.

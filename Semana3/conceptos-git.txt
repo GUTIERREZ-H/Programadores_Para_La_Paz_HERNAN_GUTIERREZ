@@ -1,0 +1,16 @@
+Repositorio
+Es la carpeta virtual donde se almacena todo tu proyecto, incluyendo los archivos de código,
+imágenes y configuraciones. Su función principal es llevar el registro completo de la "línea del
+tiempo" de tu trabajo, guardando cada cambio e historial para que puedas consultar versiones
+anteriores en cualquier momento.
+
+Commit
+Es el equivalente a tomar una "fotografía" o crear un punto de guardado permanente en la historia
+de tu repositorio. Cuando haces un commit, registras de forma oficial los cambios que tienes en el
+área de preparación, asegurándolos con un mensaje descriptivo y una firma con tu nombre y fecha.
+
+Push
+Es el comando que se utiliza para subir y enviar todos los commits que has hecho en tu
+computadora (repositorio local) hacia un servidor en la nube (repositorio remoto) como GitHub. Esto
+permite que tu código esté respaldado de forma segura en internet y que tus compañeros de
+equipo puedan ver y descargar tus últimas actualizaciones.
