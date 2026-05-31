@@ -1,0 +1,35 @@
+Las APIs son como "puentes digitales" que permiten que diferentes aplicaciones hablen entre sí. En
+una comunidad, ayudan a organizar la información de tres formas sencillas:
+
+Unifican todo en un solo lugar: Los vecinos pueden enviar reportes desde una web, un bot de
+Telegram o una app móvil. La API recibe todos esos mensajes y los junta en una única base de
+datos para que nada se pierda en chats grupales desordenados.
+
+Clasifican la información en segundos: La API obliga a que cada reporte viaje con etiquetas
+(como Categoría: "Fuga de agua", Ubicación: "Calle 5"). Así, el sistema organiza los problemas
+automáticamente en un mapa o lista, sin que nadie tenga que leerlos uno por uno para ordenarlos.
+
+Activan alertas automáticas: Si alguien reporta una emergencia grave, la API puede
+programarse para reaccionar al instante: envía un aviso automático a los coordinadores del
+barrio o activa una alarma comunitaria sin perder tiempo.
+
+En resumen: Una API transforma el desorden de cientos de mensajes sueltos en un sistema
+organizado, donde los problemas comunitarios se ven claros, se clasifican solos y se responden más rápido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help      ^O Write Out ^F Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
+

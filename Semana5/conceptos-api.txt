@@ -1,0 +1,9 @@
+Esta ruta lo que hace es recibir información que alguien le envía al servidor y responder con un mensaje
+de confirmación en formato JSON.
+
+A diferencia de las rutas GET (que solo sirven para pedir ver una página o datos), las rutas POST 
+se usan para crear o guardar información nueva (como cuando envías un formulario o publicas un comentario).
+
+En una aplicación comunitaria (como una plataforma para un barrio, una junta de vecinos o una
+organización social), esta ruta es una de las herramientas más valiosas que existen. Serviría,
+fundamentalmente, como un buzón digital de participación ciudadana.
