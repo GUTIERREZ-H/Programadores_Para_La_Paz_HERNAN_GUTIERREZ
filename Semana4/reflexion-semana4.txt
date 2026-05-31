@@ -1,0 +1,12 @@
+Cuando una comunidad o iniciativa ciudadana crea sus propias herramientas digitales 
+utilizando tecnologías abiertas como Node.js, está haciendo mucho más que simplemente
+programar; está ganando autonomía, resiliencia y control sobre su propio destino.
+
+Que las comunidades creen sus propias herramientas con tecnologías libres como Node.js 
+es clave por tres razones principales:
+Es gratis y sin intermediarios
+Se adapta a la realidad local
+Se adapta a la realidad local
+
+En resumen: El código abierto hace que la tecnología deje de ser un lujo de las grandes empresas y
+se convierta en una herramienta del pueblo para resolver sus propios problemas.
